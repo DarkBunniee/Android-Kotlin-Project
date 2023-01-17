@@ -1,2 +1,2 @@
 # Android-Kotlin-
-This repository is created to store the android kotlin projects. such as 
+This repository is created to store the android kotlin projects.
